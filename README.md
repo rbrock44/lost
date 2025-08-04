@@ -23,8 +23,6 @@ This is a simple frontend (index.html) created to redirect all lost users on my 
 
 ## 🛠 Technologies
 
-List the tools, languages, or frameworks used.
-
 - Deployment: `GitHub Pages`
 
 ---
