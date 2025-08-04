@@ -31,10 +31,16 @@ This is a simple frontend (index.html) created to redirect all lost users on my 
 
 * Clone [repo](https://github.com/rbrock44/lost)
 
+---
+
 ### Run Locally
 
 Open `index.html` inside a web browser
 
+---
+
 ### Deploy
 
 Github pages in configured in repo to deploy the index.html to the correct url (in the [CNAME](/CNAME))
+
+---
