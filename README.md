@@ -11,9 +11,6 @@
 - [Technologies](#-technologies)
 - [Getting Started (Local Setup)](#-getting-started-local-setup)
   - [Run Locally](#run-locally)
-  - [Test](#test)
-  - [GitHub Hooks](#github-hooks)
-  - [Build](#build)
   - [Deploy](#deploy)
 
 ---
