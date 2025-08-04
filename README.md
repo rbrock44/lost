@@ -1,6 +1,6 @@
 # Lost
 
-> This directs lost users to [Ryan's Website Directory](https://directory.ryan-brock.com/)
+> This directs lost users to [Ryan's Website Directory](https://directory.ryan-brock.com/) <br/>
 > [Live - Lost Website](https://lost.ryan-brock.com/)
 
 ---
